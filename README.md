@@ -6,7 +6,7 @@
 - 🎓 Master's in Business Analytics (December 2025)
 - 📊 Passionate about turning data into business insights
 - 🔍 Currently seeking Data Analyst / Business Analyst roles
-- 📍 Based in Chicago, IL (OPT)
+- 📍 Based in Chicago, IL 
 
 ### Skills
 ![SQL](https://img.shields.io/badge/SQL-blue)
