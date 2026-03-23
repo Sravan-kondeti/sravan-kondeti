@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sravan Tej Reddy 👋
 
-<!--
-**Sravan-kondeti/sravan-kondeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Analytics Graduate | SQL | Power BI | Chicago, IL
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Master's in Business Analytics (December 2025)
+- 📊 Passionate about turning data into business insights
+- 🔍 Currently seeking Data Analyst / Business Analyst roles
+- 📍 Based in Chicago, IL (OPT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+![SQL](https://img.shields.io/badge/SQL-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![DAX](https://img.shields.io/badge/DAX-orange)
+![Excel](https://img.shields.io/badge/Excel-green)
+
+### Projects
+- 📈 [Superstore Sales Dashboard](https://github.com/sravan-kondeti/Superstore-Sales-Dashboard)
+- 👥 [HR Analytics Dashboard](https://github.com/sravan-kondeti/HR-Analytics-Dashboard)
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/sravankondeti)
